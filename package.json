@@ -4,12 +4,12 @@
   "description": "Cloning Airbnb with Python, Django, Tailwind and more... 🇰🇷💖🐍",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nomadcoders/airbnb-clone.git"
+    "url": ""
   },
   "scripts": {
     "css": "gulp"
   },
-  "homepage": "https://github.com/nomadcoders/airbnb-clone#readme",
+  "homepage": "",
   "devDependencies": {
     "autoprefixer": "^9.7.0",
     "gulp": "^4.0.2",
