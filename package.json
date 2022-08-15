@@ -1,7 +1,7 @@
 {
   "name": "airbnb-clone",
   "version": "1.0.0",
-  "description": "Cloning Airbnb with Python, Django, Tailwind and more... 🇰🇷💖🐍",
+  "description": "A clone of Airbnb using Python, Tailwind, Django, postgresql",
   "repository": {
     "type": "git",
     "url": ""
